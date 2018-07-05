@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole1", "TestConsole1\TestConsole1.csproj", "{EA21E3CB-A968-478D-8B81-7C902717CFC8}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackQueue", "StackQueue\StackQueue.csproj", "{3B2CCC7F-FEF1-4E36-910E-9723058B1B7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGenerics", "TestGenerics\TestGenerics.csproj", "{168AAB59-89EE-40F6-A142-02F8A834F831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testconditionals", "Testconditionals\Testconditionals.csproj", "{2E987960-3A04-4B67-BF1A-9CA19F658B8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{168AAB59-89EE-40F6-A142-02F8A834F831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168AAB59-89EE-40F6-A142-02F8A834F831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168AAB59-89EE-40F6-A142-02F8A834F831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E987960-3A04-4B67-BF1A-9CA19F658B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E987960-3A04-4B67-BF1A-9CA19F658B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E987960-3A04-4B67-BF1A-9CA19F658B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E987960-3A04-4B67-BF1A-9CA19F658B8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
